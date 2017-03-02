@@ -24,6 +24,13 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
 .DS_Store
 .AppleDouble
 .LSOverride
