@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../android/.idea/android.iml" filepath="$PROJECT_DIR$/../android/.idea/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pixivcatcher/.idea/pixivcatcher.iml" filepath="$PROJECT_DIR$/../pixivcatcher/.idea/pixivcatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reploader/.idea/reploader.iml" filepath="$PROJECT_DIR$/../reploader/.idea/reploader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testhtml/.idea/testhtml.iml" filepath="$PROJECT_DIR$/../testhtml/.idea/testhtml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testunzip/.idea/testunzip.iml" filepath="$PROJECT_DIR$/../testunzip/.idea/testunzip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testzip/.idea/testzip.iml" filepath="$PROJECT_DIR$/../testzip/.idea/testzip.iml" />
+    </modules>
+  </component>
+</project>
